@@ -2,7 +2,7 @@
 A discord bot that lets you play Minesweeper with the power of Spoiler tags!
 
 
-![preview image](img=https://pbs.twimg.com/media/DyXEo9SUwAMH1mq?format=jpg&name=small)
+[](BombSweeperBot/DyXEo9SUwAMH1mq.jpg)
 
 The bot randomly generates a Minesweeper game board, and lets users click away the spoiler tags to unveil tiles. 
 
